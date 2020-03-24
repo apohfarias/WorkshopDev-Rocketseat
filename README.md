@@ -6,6 +6,7 @@ Projeto do Workshop: Aplicação CasaCriativa, ideias para a crise. Catologar id
 * Figma (para prototipagem). Link: https://www.figma.com/
 * Visual Studio Code. Link: https://code.visualstudio.com/download  
 * Nodejs 12.16.1 LTS (installing via package manager)
+
 Usando Ubuntu: 
 ```console
 curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
