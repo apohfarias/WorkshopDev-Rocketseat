@@ -76,5 +76,5 @@ This project uses the MIT license. Read [LICENSE](LICENSE.md) for details.
 
 ---
 
-Edited ♥ by Apôh Farias :wave:
+Edited ♥ by Apôh Farias
 (Thanks @vsalbuq :wave:)
