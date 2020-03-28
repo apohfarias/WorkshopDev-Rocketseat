@@ -33,7 +33,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src="logo.png" width="50%">
+  <img alt="Frontend" src="/public/exibindocasacriativa.gif" width="50%">
 </p>
 
 ## :rocket: Technologies
